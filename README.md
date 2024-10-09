@@ -15,9 +15,11 @@ I am passionate in software development and design, always eager to leverage my 
 
 - Data Structures & Algorithms, System Design & Microservices. 
 
-## 💼 Resume & Projects
+## 📄 Resume
 
 Please find link to my resume [here](https://www.linkedin.com/in/nkbarua/)
+
+## 💼 Projects
 
 Here are some of the projects I've worked on:
 
@@ -36,7 +38,15 @@ Here are some of the projects I've worked on:
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=barualee&theme=tokyonight" alt="mystreak" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=barualee&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<div>
+  <br><br>
+</div>
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=barualee&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width=35%/>
+</div>
 
-Thanks for visiting my profile! Feel free to reach out or check out my projects.
+<div>
+ <br>
+<p>Thanks for visiting my profile! Feel free to reach out or check out my projects.</p>
+</div>
