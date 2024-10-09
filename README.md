@@ -1,7 +1,7 @@
 # Hi there, I'm Nishant! 👋
 
 Welcome to my GitHub profile! I'm a student at Concordia University pursuing Masters of Engineering in Computer Engineering.
-I am passionate in software development and design, always eager to leverage my skills to create innovative solutions that drive positive change.
+I am passionate in software development and design, always eager to leverage my skills to create solutions driving positive change.
 
 ## 🔧 Technologies & Tools
 
