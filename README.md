@@ -1,10 +1,10 @@
 # Hi there, I'm Nishant! 👋
 
-Welcome to my GitHub profile! I'm a student passionate about software development. I love to collaborate on projects that [Your Goals or Interests].
+Welcome to my GitHub profile! I'm a student passionate about software development.
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: [e.g., JavaScript, Python, Java, etc.]
+- **Languages**: Java, JavaScript, Python, SQL, Bash.
 - **Frameworks**: [e.g., React, Django, Flask, etc.]
 - **Databases**: [e.g., MySQL, MongoDB, etc.]
 - **Tools**: [e.g., Git, Docker, VS Code, etc.]
@@ -23,14 +23,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 How to reach me
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: barua.nishant97@gmail.com(mailto:your.email@example.com)
 - LinkedIn: [Your LinkedIn Profile](link-to-your-profile)
-- Twitter: [Your Twitter Handle](link-to-your-twitter)
-
-## 🎉 Fun Facts
-
-- I love [hobbies/interests].
-- I enjoy [something unique about you].
-- My favorite book is [your favorite book].
 
 Thanks for visiting my profile! Feel free to reach out or check out my projects.
