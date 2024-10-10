@@ -19,14 +19,6 @@ I am passionate in software development and design, always eager to leverage my 
 
 Please find link to my resume [here](https://www.linkedin.com/in/nkbarua/)
 
-## 💼 Projects
-
-Here are some of the projects I've worked on:
-
-- [Project Name 1](link-to-project) - A brief description of what it does.
-- [Project Name 2](link-to-project) - A brief description of what it does.
-- [Project Name 3](link-to-project) - A brief description of what it does.
-
 ## 📫 How to reach me
 
  [![Linkedin Badge](https://img.shields.io/badge/-Nishant_Barua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nkbarua/)](https://www.linkedin.com/in/nkbarua/) [![Gmail Badge](https://img.shields.io/badge/-barua.nishant97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:barua.nishant97@gmail.com)](mailto:barua.nishant97@gmail.com)
