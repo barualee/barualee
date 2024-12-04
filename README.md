@@ -17,7 +17,7 @@ I am passionate in software development and design, always eager to leverage my 
 
 ## 📄 Resume
 
-Please find link to my resume [here](https://1drv.ms/b/c/57396cfbada4f78a/EXx3hxQURdFBupUU-hEzBvUBEfzxNvBgPG_R0vaDWF97Ag?e=9UA2XU)
+Please find link to my resume [here](https://drive.google.com/file/d/1OvypWdXRleRZDenK3DMrb-0cIn3r9wG-/view?usp=sharing)
 
 ## 📫 How to reach me
 
