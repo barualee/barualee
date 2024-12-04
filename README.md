@@ -8,7 +8,7 @@ I am passionate in software development and design, always eager to leverage my 
 - **Languages**: Python, Java, JavaScript, TypeScript, PHP, C#, Bash.
 - **Web Technologies**: SpringBoot, Maven, Hibernate, Thymeleaf, jQuery, JUnit, Mockito, Flask, gRPC, NodeJS, ReactJS, ExpressJS, HTML, CSS, BootStrap, Apache Kafka, Kafka Connect, Kafka Streams, ELK Stack.
 - **Databases**: MySQL, MongoDB, Redis.
-- **DevOps**: Linux, Git, GitHub Actions, AWS, Docker, Terraform, Jenkins.
+- **DevOps**: Linux, Git, GitHub Actions, AWS, Docker, Kubernetes, Nginx, Apache Server, Terraform, Jenkins.
 - **Data Science**: Pandas, Scikit-Learn, Keras, PyTorch, TensorFlow.
 
 ## 🌱 Current Learning
